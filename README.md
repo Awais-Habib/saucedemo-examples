@@ -1,4 +1,4 @@
-# Saucedemo Test Auomation
+# Saucedemo Test Automation
 This test framework in developed in javascript using Webdriverio library automating the UI tests of the application 
 
 ## Assessment Criteria
