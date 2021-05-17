@@ -12,7 +12,7 @@ The assesment crteria was based on the following points:
 
 ## Technical Details The automation framework covers the following parts of the application: 
 
-- Login tohttps://www.saucedemo.com/ using the "standard_user" account
+- Login to https://www.saucedemo.com/ using the "standard_user" account
 - Sort the products by Price (high to low)
 - Add the two cheapest products to your basket
 - Open the basket
