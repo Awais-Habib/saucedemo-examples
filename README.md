@@ -19,7 +19,7 @@ The assesment crteria was based on the following points:
 - Remove the cheapest product from your basket
 - Checkout- Finish on the page where you need to enter your name and postal code (you do not need tofill in this form) 
 
-### ToolsUsed
+### Tools Used
 
 #### Note:I have not used cucumber to define the test structure since the tests are readable 
 
