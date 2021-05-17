@@ -1,4 +1,4 @@
-# SaucedemoTest Auomation
+# Saucedemo Test Auomation
 This testframework in developed in javascript using Webdriverio library automating theUI tests of the application 
 
 ## Assessment Criteria
