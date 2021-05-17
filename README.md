@@ -42,8 +42,7 @@ The assesment crteria was based on the following points:
   - Checkout the cart    
   - Complete checkout to finish the order    
   
-  ### Test Structure  
-  
+### Test Structure  
   - pages    
     - login.page.js    
     - inventory.page.js    
