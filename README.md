@@ -53,21 +53,20 @@ The assesment crteria was based on the following points:
     - login.test.js    
     - inventory.test.js   
     
-    ### How To Run Tests 
+### How To Run Tests 
+In order torun the tests locally, perform the following steps:   
+
+Use the package manager `npm` to install dependencies:
+
+```npm install``` 
     
-    In order torun the tests locally, perform the following steps:   
+Use audixfixes if required:
     
-    Use the package manager `npm` to install dependencies:
+```npm audit fix``` 
     
-    ```npm install``` 
+Run the tests (At the moment it is onöy Chrome). The "script" in "package.json" directed the tests to "./node_modules/.bin/wdio ./wdio.conf.js":
     
-    Use audixfixes if required:
-    
-    ```npm audit fix``` 
-    
-    Run the tests (At the moment it is onöy Chrome). The "script" in "package.json" directed the tests to "./node_modules/.bin/wdio ./wdio.conf.js":
-    
-    ```json
+```json
     
     "script": {      
       
@@ -75,16 +74,16 @@ The assesment crteria was based on the following points:
     
     }
     
-    ```
+ ```
     
-    So to run the automation tests use:
+So to run the automation tests use:
     
-    ```npm run test```
+```npm run test```
     
-    ### Branching 
+### Branching 
     
-    This project currently has master branch. Use master branch to clone. 
+This project currently has master branch. Use master branch to clone. 
     
-    Clone the repository from Github
+Clone the repository from Github
     
-    ```https://github.com/Awais-Habib/saucedemo-examples.git``` 
+```https://github.com/Awais-Habib/saucedemo-examples.git``` 
