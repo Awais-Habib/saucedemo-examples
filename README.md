@@ -4,7 +4,7 @@ This test framework in developed in javascript using Webdriverio library automat
 ## Assessment Criteria
 The assesment crteria was based on the following points: 
 
-- Demonstrated JavaScript or TypeScript and Node.js knowledge (the more modernsyntax the better!)
+- Demonstrated JavaScript or TypeScript and Node.js knowledge (the more modern syntax the better!)
 - The testcode is concise and easy to understand
 - The test effectively validates the intended functionality
 - The framework is well structured
