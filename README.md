@@ -66,7 +66,7 @@ Use audixfixes if required:
 Run the tests (At the moment it is onöy Chrome). The "script" in "package.json" directed the tests to "./node_modules/.bin/wdio ./wdio.conf.js":
     
 ``` json
-    "script": {      
+    "script": {
       
       "./node_modules/.bin/wdio ./wdio.conf.js"
     
