@@ -79,7 +79,7 @@ Theassesment crteria was based on the following points:
     
     ```npm runtest```
     
-    ### BranchingThe projectcurrenrly has main branch. Use main branch to clone. 
+    ### BranchingThe projectcurrenrly has master branch. Use master branch to clone. 
     
     Clone therepository from Github
     
