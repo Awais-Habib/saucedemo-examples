@@ -49,6 +49,7 @@ The assesment crteria was based on the following points:
     - checkoutOverviewPage.js    
     - checkoutCompletePage.js    
     - cart.page.js- tests    
+  - test  
     - login.test.js    
     - inventory.test.js   
     
