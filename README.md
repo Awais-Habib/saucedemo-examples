@@ -21,7 +21,7 @@ The assesment crteria was based on the following points:
 
 ### Tools Used
 
-#### Note:I have not used cucumber to define the test structure since the tests are readable 
+#### Note: I have not used cucumber to define the test structure since the tests are readable 
 
 - Webdriverio
 - Chai 
